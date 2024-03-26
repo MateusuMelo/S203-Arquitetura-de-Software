@@ -7,6 +7,7 @@ import {FilmListComponent} from "./components/film-list/film-list.component";
 import { HomePageComponent } from './components/home-page/home-page.component';
 import { NotFoundComponent } from './components/not-found/not-found.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
